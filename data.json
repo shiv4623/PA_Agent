@@ -1,0 +1,15 @@
+{
+  "patients": [
+    {"name": "Kevin Terrell", "dob": "January 1, 1990", "member_id": "111188"}
+  ],
+  "authorizations": [
+    {
+      "auth_id": "1234", "member_id": "111188", "procedure": "MRI scan for primarily chest",
+      "status": "Approved", "approved_dates": "02/01/2025 - 04/30/2025"
+    },
+    {
+      "auth_id": "5678", "member_id": "111188", "procedure": "CT scan",
+      "status": "Being reviewed by Registered Nurse", "decision_deadline": "2/10/2025"
+    }
+  ]
+}
